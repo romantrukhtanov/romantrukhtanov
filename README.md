@@ -4,10 +4,10 @@
 
 <div id="socials" align="center">
   <a href="https://www.linkedin.com/in/romantrukhtanov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/>
-  </a> •
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://t.me/tr_roman" target="_blank">
-    <img src="https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" align="center"/>
+    <img src="https://shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
