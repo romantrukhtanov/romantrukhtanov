@@ -17,7 +17,7 @@
 - ⚡ Expert in Core Web Vitals
 - 🌍 I speak English and Russian
 - 📫 How to reach me: <a href="mailto:romantrukhtanov@gmail.com">romantrukhtanov@gmail.com</a>
-- 📝 <a href="https://drive.google.com/file/d/1f0A6mo04pNveYTKan3GkuU2gTmvnPt3L/view?usp=sharing">Resume</a>
+- 📝 <a href="https://drive.google.com/file/d/1-V4cSvygu-n3ndqelFrOo-Kt-zkqdNut/view?usp=sharing">Resume</a>
 
 ---
 
